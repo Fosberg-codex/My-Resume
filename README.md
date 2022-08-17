@@ -1,2 +1,2 @@
-# My-CV
-Contains my CV
+# My-Resume
+Contains my Resume
